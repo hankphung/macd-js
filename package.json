@@ -1,0 +1,19 @@
+{
+  "name": "macd",
+  "version": "1.0.0",
+  "description": "js scripts to calculate macd",
+  "main": "lib/macd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hankphung/macd-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hankphung/macd-js/issues"
+  },
+  "homepage": "https://github.com/hankphung/macd-js#readme"
+}
